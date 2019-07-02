@@ -4,6 +4,4 @@ You can use the [editor on GitHub](https://github.com/limpidee/limpidee.github.i
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Post
-
-# [post](/post.md)
+### [Post](/post.md)
